@@ -64,7 +64,7 @@ body {
 .imagefront{
     position: absolute;
     left: 400px;
-   margin-top: -400px;
+   margin-top: 140px;
 }
 
 .image-container{
@@ -88,7 +88,7 @@ div.scroll-container img {
 }
 
 svg{
-    margin-top: 10px;
+    margin-top: -50px;
 
 }
 
@@ -102,7 +102,7 @@ svg{
 }
 .kontakt{
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 2%;
 
 }
