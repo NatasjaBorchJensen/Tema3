@@ -58,7 +58,7 @@ body {
 .imagefront{
     position: absolute;
     left: 400px;
-   margin-top: 140px;
+   margin-top: -380px;
 }
 
 .image-container{
