@@ -75,3 +75,14 @@ body {
 .image-container{
     position: relative;
 }
+
+div.scroll-container {
+    background-color: #E04038;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+div.scroll-container img {
+    padding: 10px;
+}
