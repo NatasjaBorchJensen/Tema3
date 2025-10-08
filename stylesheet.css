@@ -35,7 +35,7 @@ body {
     display: flex;
     justify-content: space-around;
     height: 280px;
-    margin-top: 40px;
+    margin-top: 200px;
 
 }
 
@@ -63,13 +63,13 @@ body {
     display: flex;
     justify-content: space-around;
     height: 280px;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .imagefront{
     position: absolute;
     left: 400px;
-    padding-top: -200px;
+   margin-top: -400px;
 }
 
 .image-container{
