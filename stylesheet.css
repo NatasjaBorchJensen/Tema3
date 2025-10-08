@@ -87,7 +87,7 @@ div.scroll-container img {
 }
 
 svg{
-    margin-top: -60px;
+    margin-top: -80px;
 
 }
 
@@ -97,11 +97,11 @@ svg{
 }
 
 .circle2{
-    margin-left: 350px;
+    margin-right: 350px;
 }
 .kontakt{
     position: absolute;
-    top: 40%;
+    top: 305%;
     left: 2%;
 
 }
