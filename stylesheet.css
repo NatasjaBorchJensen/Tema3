@@ -49,7 +49,6 @@ body {
     width: 40%;
     display: flex;
     flex-direction: column;
-    padding-top: 25px;
 }
 
 .image-box{
