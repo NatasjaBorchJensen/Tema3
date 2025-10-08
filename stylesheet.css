@@ -14,13 +14,7 @@ body {
     margin-top: 1000px;
 }
 
-.aktiviteter-tekst {
-    color: black;
-    font-weight: bold;
-    font-size: 96px;
-    text-transform: uppercase;
-    justify-self: left;
-}
+
 
 
 
@@ -88,7 +82,7 @@ div.scroll-container img {
 }
 
 svg{
-    margin-top: -50px;
+    margin-top: -60px;
 
 }
 
